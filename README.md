@@ -22,4 +22,4 @@
 
 <br clear="both">
 
-![snake gif](https://github.com/dku-da-cpu/dku-da-cpu/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/dku-da-cpu/Dku-Da-Cpu/blob/output/github-contribution-grid-snake.svg)
