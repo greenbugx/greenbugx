@@ -19,3 +19,7 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/dkuworks"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="dkuworks" /></a></p><br><br>
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/dku-da-cpu/dku-da-cpu/output/snake.svg" alt="Snake Animation">
