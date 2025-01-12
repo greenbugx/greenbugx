@@ -22,4 +22,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/dku-da-cpu/dku-da-cpu/output/snake.svg" alt="Snake Animation">
+![snake gif](https://github.com/dku-da-cpu/dku-da-cpu/blob/output/github-contribution-grid-snake.gif)
