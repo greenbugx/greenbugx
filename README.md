@@ -6,7 +6,7 @@ Hi, I'm **Diku(NOT MY REAL NAME)**, a 17-year-old tech enthusiast passionate abo
 
 ### 🛠️ Current Projects  
 - 🌐 **Web Development**: Making many many web pages.  
-- 📝 **Typepad**: A Flutter-based, lightweight desktop notepad app for enhanced productivity.  
+- 📝 **SORTEED Website**: An Event Planner website powered by TailwindCSS.  
 
 ### 🌱 What I’m Learning  
 - **Flutter & Dart**: Building efficient desktop apps.  
