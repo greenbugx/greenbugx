@@ -5,7 +5,7 @@ Hi, I'm **Diku(NOT MY REAL NAME)**, a 17-year-old tech enthusiast passionate abo
 - **Desktop App Development**: Exploring lightweight solutions for everyday productivity.  
 
 ### 🛠️ Current Projects  
-- 🌐 **Web Development**: Making many many web pages.  
+- 🌐 **BitSyntax Labs Website**: The Official BitSyntax Labs Organization Website powered by TailwindCSS.  
 - 📝 **SORTEED Website**: An Event Planner website powered by TailwindCSS.  
 
 ### 🌱 What I’m Learning  
