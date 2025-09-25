@@ -1,5 +1,5 @@
 ### 🌟 About Me  
-Hi, I'm **GreenBugX**, a 17-year-old tech enthusiast passionate about:  
+Hi, I'm **GreenBugX**, a tech enthusiast passionate about:  
 - **UI/UX Design**: Crafting visually stunning and user-friendly interfaces.  
 - **Web Development**: Designing and redesigning websites with modern layouts and vibrant themes.  
 - **Desktop App Development**: Exploring lightweight solutions for everyday productivity.
