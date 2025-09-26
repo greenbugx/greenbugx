@@ -46,17 +46,12 @@ I’d love to collaborate or share ideas! Feel free to check out my work and get
 
 <h3 align="left">Support Me:</h3>
 
-[![Bitcoin](https://img.shields.io/badge/bitcoin-2F3134?style=for-the-badge&logo=bitcoin&logoColor=white)](https://www.blockchain.com/btc/address/bc1q7l43chftqlz3ve0q0we3kt0h69mywlumwc8hl6)
-
-[![Litecoin](https://img.shields.io/badge/Litecoin-A6A9AA?style=for-the-badge&logo=Litecoin&logoColor=white)](https://blockchair.com/litecoin/address/Lfh1YkToi97ipgLVz1YhEitAb4yiKWahk5)
-
-[![Dogecoin](https://img.shields.io/badge/dogecoin-B59A30?style=for-the-badge&logo=dogecoin&logoColor=white)](https://blockchair.com/dogecoin/address/D5oNu7rbN8Fg58q7smDbtFkfh4kiyzpz2v)
-
-[![Tether (TRC20)](https://img.shields.io/badge/tether%20(TRC20)-168363?style=for-the-badge&logo=tether&logoColor=white)](https://tronscan.org/#/address/TFURy3Wgk17EPCteXNgHUiAMGcgcW2A3e6)
-
-[![Tether (BEP20)](https://img.shields.io/badge/tether%20(BEP20)-F3BA2F?style=for-the-badge&logo=tether&logoColor=white)](https://bscscan.com/address/0x844dF51FABCA99Eb15b830cc058C83A6DDD6B9c0)
-
-[![BNB](https://img.shields.io/badge/BNB-F3BA2F?style=for-the-badge&logo=binance&logoColor=white)](https://bscscan.com/address/0x844dF51FABCA99Eb15b830cc058C83A6DDD6B9c0)
+- [![Bitcoin](https://img.shields.io/badge/bitcoin-2F3134?style=for-the-badge&logo=bitcoin&logoColor=white)](https://www.blockchain.com/btc/address/bc1q7l43chftqlz3ve0q0we3kt0h69mywlumwc8hl6)
+- [![Litecoin](https://img.shields.io/badge/Litecoin-A6A9AA?style=for-the-badge&logo=Litecoin&logoColor=white)](https://blockchair.com/litecoin/address/Lfh1YkToi97ipgLVz1YhEitAb4yiKWahk5)
+- [![Dogecoin](https://img.shields.io/badge/dogecoin-B59A30?style=for-the-badge&logo=dogecoin&logoColor=white)](https://blockchair.com/dogecoin/address/D5oNu7rbN8Fg58q7smDbtFkfh4kiyzpz2v)
+- [![Tether (TRC20)](https://img.shields.io/badge/tether%20(TRC20)-168363?style=for-the-badge&logo=tether&logoColor=white)](https://tronscan.org/#/address/TFURy3Wgk17EPCteXNgHUiAMGcgcW2A3e6)
+- [![Tether (BEP20)](https://img.shields.io/badge/tether%20(BEP20)-F3BA2F?style=for-the-badge&logo=tether&logoColor=white)](https://bscscan.com/address/0x844dF51FABCA99Eb15b830cc058C83A6DDD6B9c0)
+- [![BNB](https://img.shields.io/badge/BNB-F3BA2F?style=for-the-badge&logo=binance&logoColor=white)](https://bscscan.com/address/0x844dF51FABCA99Eb15b830cc058C83A6DDD6B9c0)
 
 
 
