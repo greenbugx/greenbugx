@@ -18,7 +18,6 @@ Most of my work revolves around:
 ---
 
 ## 📘 What I'm Learning
-- **Machine Learning Basics**  
 - **API design & architecture**  
 - **SEO foundations**  
 - **System design patterns**  
