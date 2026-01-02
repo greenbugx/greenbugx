@@ -12,10 +12,8 @@ Most of my work revolves around:
 
 ## 🔧 What I’m Currently Working On
 - Building **EasyLang**, an English-like programming language  
-- Developing **search dork generators**, scrapers, and vulnerability-testing utilities  
-- Improving my understanding of **machine learning fundamentals** (loss, weights, epochs, model behavior)  
 - Learning more about **APIs** and backend structures  
-- Creating responsive, lightweight websites for different clients  
+- Creating responsive, lightweight websites
 
 ---
 
