@@ -38,7 +38,7 @@ I still break my own code sometimes.
 ## 🛠️ Tech I Use
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,ts,react,astro,nodejs,html,css,tailwind,flask,mongodb,mysql,sqlite,git,cloudflare,vercel,netlify,heroku,kali,vscode,windows,md" />
+    <img src="https://skillicons.dev/icons?i=py,js,ts,react,astro,nodejs,html,css,tailwind,flask,mongodb,mysql,sqlite,git,cloudflare,vercel,netlify,heroku,kali,vscode,windows,md,flutter,kotlin,dart" />
   </a>
 </p>
 
