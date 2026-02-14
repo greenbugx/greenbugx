@@ -1,4 +1,4 @@
-# 👋 Hey, I'm GreenBugX
+# 👋 Hey, I'm GreenBugX(0xNA)
 
 I'm a developer who enjoys building practical tools, exploring cybersecurity, and experimenting with new technologies.  
 Most of my work revolves around:
@@ -6,21 +6,23 @@ Most of my work revolves around:
 - **Web Development** — Fast, modern websites using Astro, React, and TailwindCSS  
 - **Python Development** — Automation, scripts, utilities, and security-related tools  
 - **Bot Development** — Telegram and Discord bots  
-- **Cybersecurity Exploration** — Dorks, scrapers, testing tools  
+- **Cybersecurity Exploration** — Dorks, scrapers, testing tools
+- **Flutter(Dart) Development** — Cross Platform applications for Android, Windows, Linux, iOS etc
 
 ---
 
 ## 🔧 What I’m Currently Working On
-- Building **EasyLang**, an English-like programming language  
+- Building **EasyLang**, an English-like programming language
+- Building **Hongeet**, a music player powered by multi-streaming service
 - Learning more about **APIs** and backend structures  
 - Creating responsive, lightweight websites
 
 ---
 
 ## 📘 What I'm Learning
-- **API design & architecture**  
 - **SEO foundations**  
-- **System design patterns**  
+- **System design patterns**
+- **Pentesting**
 
 ---
 
@@ -38,7 +40,7 @@ I still break my own code sometimes.
 ## 🛠️ Tech I Use
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,ts,react,astro,nodejs,html,css,tailwind,flask,mongodb,mysql,sqlite,git,cloudflare,vercel,netlify,heroku,kali,vscode,windows,md,flutter,kotlin,dart" />
+    <img src="https://skillicons.dev/icons?i=py,js,ts,react,astro,nodejs,html,css,tailwind,flask,mongodb,mysql,sqlite,git,vercel,netlify,heroku,kali,vscode,flutter,kotlin,dart" />
   </a>
 </p>
 
