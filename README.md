@@ -39,7 +39,7 @@ I still break my own code sometimes.
 ## 🛠️ Tech I Use
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,ts,react,astro,nodejs,html,css,tailwind,flask,mongodb,mysql,sqlite,git,vercel,netlify,heroku,kali,vscode,flutter,kotlin,dart" />
+    <img src="https://skillicons.dev/icons?i=py,js,ts,react,astro,nodejs,html,css,tailwind,git,vercel,netlify,heroku,vscode,flutter,kotlin,dart" />
   </a>
 </p>
 
