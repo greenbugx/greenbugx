@@ -19,13 +19,6 @@ Most of my work revolves around:
 
 ---
 
-## 📘 What I'm Learning
-- **SEO foundations**  
-- **System design patterns**
-- **Pentesting**
-
----
-
 ## ⚡ Random Fact  
 I still break my own code sometimes.
 
