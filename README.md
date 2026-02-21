@@ -4,44 +4,45 @@
   </a>
   <p><i>Building apps & tools, exploring cybersecurity, and experimenting with new tech.</i></p>
   
-  <a href="mailto:greenbugx@proton.me">
-    <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="ProtonMail" />
-  </a>
+  <a href="mailto:greenbugx@proton.me"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="ProtonMail" /></a>&nbsp;<a href="https://instagram.com/dxku.00"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </div>
 
 ---
 
-### 🧠 My Ecosystem
+### 🤞 Domain Expansion: Tech Stack
 
-```mermaid
-%%{init: {'themeVariables': { 'fontSize': '13px' }}}%%
-graph LR
-  Root((GreenBugX)):::rootClass
-  
-  Root --- Web[Web Development]:::webClass
-  Web --- Astro
-  Web --- React
-  Web --- TailwindCSS
-  
-  Root --- Sec[Python & Security]:::secClass
-  Sec --- Auto[Automation]
-  Sec --- Dorks[Dorks & Scrapers]
-  Sec --- Tools[Security Tools]
-  
-  Root --- App[Cross-Platform App's]:::appClass
-  App --- Flutter
-  App --- Dart
-  
-  Root --- Bot[Bot Development]:::botClass
-  Bot --- Telegram
-  Bot --- Discord
-
-  classDef rootClass fill:#f59e0b,stroke:#fff,stroke-width:2px,color:#fff
-  classDef webClass fill:#3b82f6,stroke:#fff,stroke-width:2px,color:#fff
-  classDef secClass fill:#10b981,stroke:#fff,stroke-width:2px,color:#fff
-  classDef appClass fill:#8b5cf6,stroke:#fff,stroke-width:2px,color:#fff
-  classDef botClass fill:#ef4444,stroke:#fff,stroke-width:2px,color:#fff
-```
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://media.tenor.com/lmo7uMwdDf0AAAAi/jujutsu-kaisen.gif" width="200" alt="Gojo Cybersecurity" />
+        <br />
+        <h3>🛡️ Cybersecurity & Python</h3>
+        <p><i>"Nah, I'd secure it."</i></p>
+      </td>
+      <td align="center" width="50%">
+        <img src="https://media1.tenor.com/m/iBqbg6QoPIUAAAAC/yuji-itadori-aura.gif" width="300" alt="Yuji Web Dev" />
+        <br />
+        <h3>🌐 Web Development</h3>
+        <p><i>Left Right Goodnight to frontend bugs.</i></p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://media1.tenor.com/m/zhY7ELjExLUAAAAC/valekis.gif" width="250" alt="Megumi Bot Dev" />
+        <br />
+        <h3>🤖 Bot Development</h3>
+        <p><i>Summoning automated Shikigami.</i></p>
+      </td>
+      <td align="center" width="50%">
+        <img src="https://media1.tenor.com/m/0H9R1qgGB8IAAAAC/sukuna-jujutsu-kaisen.gif" width="200" alt="Sukuna Cross Platform" />
+        <br />
+        <h3>📱 Cross-Platform (Flutter)</h3>
+        <p><i>Slicing through all OS platforms at once.</i></p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
