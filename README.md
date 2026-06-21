@@ -116,7 +116,7 @@ I'm a developer who loves diving into the deep end of the tech pool. Here is a b
 
 <div align="center">
   <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,react,astro,nodejs,html,css,tailwind,git,vercel,netlify,heroku,vscode,flutter,kotlin,dart,cpp&perline=9" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=py,js,ts,react,astro,nodejs,html,css,tailwind,git,vercel,netlify,heroku,vscodium,flutter,kotlin,dart,cpp&perline=9" alt="My Skills" />
   </a>
 </div>
 
