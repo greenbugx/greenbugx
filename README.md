@@ -94,13 +94,8 @@ I'm a developer who loves diving into the deep end of the tech pool. Here is a b
     </thead>
     <tbody>
       <tr>
-        <td align="left"><strong>EasyLang</strong></td>
-        <td align="center">🏗️ <em>Building</em></td>
-        <td align="left">An English-like programming language designed to be highly intuitive.</td>
-      </tr>
-      <tr>
         <td align="left"><strong>Hongeet</strong></td>
-        <td align="center">🎵 <em>Building</em></td>
+        <td align="center">🎵 <em>Discontinued</em></td>
         <td align="left">A multi-streaming service-powered music player.</td>
       </tr>
       <tr>
