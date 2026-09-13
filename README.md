@@ -11,10 +11,7 @@
 <a href="mailto:greenbugx@proton.me">
   <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="ProtonMail" />
 </a>
-&nbsp;
-<a href="https://instagram.com/dxku.00">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
+
 
 </div>
 
@@ -24,7 +21,7 @@
 
 * **Web Development** — React, Astro, TailwindCSS, Node.js
 * **Backend & APIs** — REST APIs, backend architecture, databases
-* **Mobile Development** — Flutter, Dart, Kotlin
+* **Mobile Development** — Flutter, Dart, Kotlin, Java
 * **Systems Development** — C++, CMake, networking, protocols
 * **Cybersecurity** — Python, automation, security research & tooling
 * **Bot Development** — Discord & Telegram
@@ -33,7 +30,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,cpp,js,ts,react,astro,nodejs,html,css,tailwind,flutter,dart,kotlin,git,github,cmake,postgres,redis,docker,rust,go&perline=11" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=py,cpp,js,ts,react,astro,nodejs,html,css,tailwind,flutter,dart,kotlin,git,github,cmake,postgres,redis,docker,rust,go,java&perline=11" alt="Tech Stack" />
 
 </div>
 
