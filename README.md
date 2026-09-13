@@ -17,16 +17,9 @@
 
 ---
 
-### 🧠 Experience
-
-* **Web Development** — React, Astro, TailwindCSS, Node.js
-* **Backend & APIs** — REST APIs, backend architecture, databases
-* **Mobile Development** — Flutter, Dart, Kotlin, Java
-* **Systems Development** — C++, CMake, networking, protocols
-* **Cybersecurity** — Python, automation, security research & tooling
-* **Bot Development** — Discord & Telegram
-
-### 🛠️ Tech Stack
+<div align="center">
+  <h1>Things I probably Know</h1>
+</div>
 
 <div align="center">
 
