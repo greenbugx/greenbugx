@@ -33,12 +33,14 @@
 
 <br /><br />
 
-<p><i>🐍 contributions doing their thing</i></p>
+<p><i>My Koi</i></p>
 
-<picture>
+<img src="koi/koi.gif" width="256" alt="My koi">
+
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dku-da-cpu/dku-da-cpu/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dku-da-cpu/dku-da-cpu/output/github-snake.svg">
   <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/dku-da-cpu/dku-da-cpu/output/github-snake.svg">
-</picture>
+</picture> -->
 
 </div>
