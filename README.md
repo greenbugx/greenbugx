@@ -31,10 +31,6 @@
 
 <div align="center">
 
-<br /><br />
-
-<p><i>My Koi</i></p>
-
 <img src="koi/koi.gif" width="256" alt="My koi">
 
 <!-- <picture>
